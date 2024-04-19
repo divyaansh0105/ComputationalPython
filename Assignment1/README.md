@@ -21,9 +21,13 @@ Plotting: The code plots the known data points as dots and the interpolated poin
 Visualization: The resulting plot visualizes the pressure-temperature relationship using Lagrange interpolation.
 ### How to Use
 To use this code, follow these steps:
+
 Ensure you have Python installed on your system.
 Install the required libraries: numpy and matplotlib.
 Copy the provided code into a Python file (e.g., interpolation_example.py).
+
+![Pythonass1](https://github.com/divyaansh0105/ComputationalPython/assets/158050858/86490541-1876-4d07-b841-bdbb212e86fa)
+
 Run the Python script.
 Enter the temperatures at which you want to interpolate pressures when prompted.
 View the plotted graph showing the original data points and the interpolated points.
