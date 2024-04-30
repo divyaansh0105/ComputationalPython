@@ -1,4 +1,4 @@
-## Assignment-01 (Interpolation and Lagrange Interpolation)
+
 ### Interpolation
 Interpolation is a method in mathematics and computational science used to estimate values between known data points. It is particularly useful when we have a set of discrete data points and need to estimate the value of a function at points that lie between these data points. Interpolation is commonly used in various fields such as numerical analysis, signal processing, computer graphics, and scientific computing.
 ### Lagrange Interpolation
