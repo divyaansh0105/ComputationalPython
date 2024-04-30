@@ -1,4 +1,3 @@
-## Assignment-02 (Gauss Elimination)
 ### Gaussian Elimination
   Gaussian elimination is a method used to solve systems of linear equations. It operates by systematically eliminating variables from the equations until a solution is found. This technique is fundamental in various fields such as mathematics, physics, engineering, and computer science.
 ### How Gaussian Elimination Works
